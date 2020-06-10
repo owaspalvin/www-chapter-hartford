@@ -3,4 +3,4 @@
 
 ### Social Links
 * [Meetup](#)
-* [Social Link](#)-->
+https://www.meetup.com/CT-Cyber-Security-Meetup-OWASP-Hartford/
